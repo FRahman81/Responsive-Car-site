@@ -408,6 +408,6 @@ header.shadow #search-icon{
         color: var(--bg-color);
     }
     .navbar .active{
-        clip-path: circle(144% at 0% 0%);
+       clip-path: circle(144% at 0% 0%);
     }
 }
